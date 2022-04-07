@@ -1,0 +1,10 @@
+﻿  Library system.cpp
+C:\Users\mk225\Desktop\Library system\Library system\Library system.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mk225\Desktop\Library system\Library system\Library system.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mk225\Desktop\Library system\Library system\Library system.cpp(92,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mk225\Desktop\Library system\Library system\Library system.cpp(143,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\mk225\Desktop\Library system\Library system\Library system.cpp(158,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\mk225\Desktop\Library system\Library system\Library system.cpp(170,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\mk225\Desktop\Library system\Library system\Library system.cpp(126,10): warning C4102: 'add_user': unreferenced label
+C:\Users\mk225\Desktop\Library system\Library system\Library system.cpp(180,12): warning C4102: 'break_code': unreferenced label
+  Library system.vcxproj -> C:\Users\mk225\Desktop\Library system\Debug\Library system.exe
